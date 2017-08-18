@@ -1,0 +1,12 @@
+{
+    "name": "wzj/xmpush-for-laravel",
+    "description": "xiao mi push for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jun",
+            "email": "aaasayok@gmail.com"
+        }
+    ],
+    "require": {}
+}
