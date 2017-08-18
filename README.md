@@ -1,4 +1,4 @@
-## xmpush form laravel 
+## xmpush for laravel 
 
 小米推送laravel包
 
