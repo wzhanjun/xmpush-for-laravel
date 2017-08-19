@@ -15,4 +15,4 @@
 
 #####  生成配置文件
 
-	php artisan vendor:publish --provider="Wzj\Push\XMPushServiceProvider::class"
+	php artisan vendor:publish --provider="Wzj\Push\XMPushServiceProvider"
