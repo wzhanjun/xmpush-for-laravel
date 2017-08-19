@@ -8,5 +8,10 @@
             "email": "aaasayok@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wzj\\Push\\": "src/"
+        }
+    }
 }
